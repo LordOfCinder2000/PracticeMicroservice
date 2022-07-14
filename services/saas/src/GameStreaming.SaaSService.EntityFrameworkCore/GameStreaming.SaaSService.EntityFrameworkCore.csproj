@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>GameStreaming.SaaSService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="5.3.2" />
+    <PackageReference Include="Volo.Abp.TenantManagement.EntityFrameworkCore" Version="5.3.2" />
+    <ProjectReference Include="..\GameStreaming.SaaSService.Domain\GameStreaming.SaaSService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

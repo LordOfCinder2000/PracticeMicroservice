@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "GameStreaming.IdentityService.Domain.Shared": {
+      "path": "src/GameStreaming.IdentityService.Domain.Shared/GameStreaming.IdentityService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.Domain": {
+      "path": "src/GameStreaming.IdentityService.Domain/GameStreaming.IdentityService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.Application.Contracts": {
+      "path": "src/GameStreaming.IdentityService.Application.Contracts/GameStreaming.IdentityService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.Application": {
+      "path": "src/GameStreaming.IdentityService.Application/GameStreaming.IdentityService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.EntityFrameworkCore": {
+      "path": "src/GameStreaming.IdentityService.EntityFrameworkCore/GameStreaming.IdentityService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.MongoDB": {
+      "path": "src/GameStreaming.IdentityService.MongoDB/GameStreaming.IdentityService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.HttpApi": {
+      "path": "src/GameStreaming.IdentityService.HttpApi/GameStreaming.IdentityService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.HttpApi.Client": {
+      "path": "src/GameStreaming.IdentityService.HttpApi.Client/GameStreaming.IdentityService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.IdentityService.TestBase": {
+      "path": "test/GameStreaming.IdentityService.TestBase/GameStreaming.IdentityService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.IdentityService.EntityFrameworkCore.Tests": {
+      "path": "test/GameStreaming.IdentityService.EntityFrameworkCore.Tests/GameStreaming.IdentityService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.IdentityService.MongoDB.Tests": {
+      "path": "test/GameStreaming.IdentityService.MongoDB.Tests/GameStreaming.IdentityService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.IdentityService.Domain.Tests": {
+      "path": "test/GameStreaming.IdentityService.Domain.Tests/GameStreaming.IdentityService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.IdentityService.Application.Tests": {
+      "path": "test/GameStreaming.IdentityService.Application.Tests/GameStreaming.IdentityService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.IdentityService.HttpApi.Host": {
+      "path": "host/GameStreaming.IdentityService.HttpApi.Host/GameStreaming.IdentityService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "GameStreaming.IdentityService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/GameStreaming.IdentityService.HttpApi.Client.ConsoleTestApp/GameStreaming.IdentityService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.IdentityService.IdentityServer": {
+      "path": "host/GameStreaming.IdentityService.IdentityServer/GameStreaming.IdentityService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "GameStreaming.IdentityService.Host.Shared": {
+      "path": "host/GameStreaming.IdentityService.Host.Shared/GameStreaming.IdentityService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

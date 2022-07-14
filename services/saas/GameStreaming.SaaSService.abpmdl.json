@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "GameStreaming.SaaSService.Domain.Shared": {
+      "path": "src/GameStreaming.SaaSService.Domain.Shared/GameStreaming.SaaSService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.Domain": {
+      "path": "src/GameStreaming.SaaSService.Domain/GameStreaming.SaaSService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.Application.Contracts": {
+      "path": "src/GameStreaming.SaaSService.Application.Contracts/GameStreaming.SaaSService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.Application": {
+      "path": "src/GameStreaming.SaaSService.Application/GameStreaming.SaaSService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.EntityFrameworkCore": {
+      "path": "src/GameStreaming.SaaSService.EntityFrameworkCore/GameStreaming.SaaSService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.MongoDB": {
+      "path": "src/GameStreaming.SaaSService.MongoDB/GameStreaming.SaaSService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.HttpApi": {
+      "path": "src/GameStreaming.SaaSService.HttpApi/GameStreaming.SaaSService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.HttpApi.Client": {
+      "path": "src/GameStreaming.SaaSService.HttpApi.Client/GameStreaming.SaaSService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.SaaSService.TestBase": {
+      "path": "test/GameStreaming.SaaSService.TestBase/GameStreaming.SaaSService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.SaaSService.EntityFrameworkCore.Tests": {
+      "path": "test/GameStreaming.SaaSService.EntityFrameworkCore.Tests/GameStreaming.SaaSService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.SaaSService.MongoDB.Tests": {
+      "path": "test/GameStreaming.SaaSService.MongoDB.Tests/GameStreaming.SaaSService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.SaaSService.Domain.Tests": {
+      "path": "test/GameStreaming.SaaSService.Domain.Tests/GameStreaming.SaaSService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.SaaSService.Application.Tests": {
+      "path": "test/GameStreaming.SaaSService.Application.Tests/GameStreaming.SaaSService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.SaaSService.HttpApi.Host": {
+      "path": "host/GameStreaming.SaaSService.HttpApi.Host/GameStreaming.SaaSService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "GameStreaming.SaaSService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/GameStreaming.SaaSService.HttpApi.Client.ConsoleTestApp/GameStreaming.SaaSService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.SaaSService.IdentityServer": {
+      "path": "host/GameStreaming.SaaSService.IdentityServer/GameStreaming.SaaSService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "GameStreaming.SaaSService.Host.Shared": {
+      "path": "host/GameStreaming.SaaSService.Host.Shared/GameStreaming.SaaSService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

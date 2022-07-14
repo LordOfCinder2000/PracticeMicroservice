@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>GameStreaming.IdentityService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="5.3.2" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="5.3.2" />
+    <PackageReference Include="Volo.Abp.Identity.Application" Version="5.3.2" />
+    <ProjectReference Include="..\GameStreaming.IdentityService.Application.Contracts\GameStreaming.IdentityService.Application.Contracts.csproj" />
+    <ProjectReference Include="..\GameStreaming.IdentityService.Domain\GameStreaming.IdentityService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

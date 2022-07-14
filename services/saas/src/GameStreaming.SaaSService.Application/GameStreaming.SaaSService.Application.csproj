@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>GameStreaming.SaaSService</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="5.3.2" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="5.3.2" />
+    <PackageReference Include="Volo.Abp.TenantManagement.Application" Version="5.3.2" />
+    <ProjectReference Include="..\GameStreaming.SaaSService.Application.Contracts\GameStreaming.SaaSService.Application.Contracts.csproj" />
+    <ProjectReference Include="..\GameStreaming.SaaSService.Domain\GameStreaming.SaaSService.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

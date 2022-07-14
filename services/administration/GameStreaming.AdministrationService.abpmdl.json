@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "GameStreaming.AdministrationService.Domain.Shared": {
+      "path": "src/GameStreaming.AdministrationService.Domain.Shared/GameStreaming.AdministrationService.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.Domain": {
+      "path": "src/GameStreaming.AdministrationService.Domain/GameStreaming.AdministrationService.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.Application.Contracts": {
+      "path": "src/GameStreaming.AdministrationService.Application.Contracts/GameStreaming.AdministrationService.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.Application": {
+      "path": "src/GameStreaming.AdministrationService.Application/GameStreaming.AdministrationService.Application.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.EntityFrameworkCore": {
+      "path": "src/GameStreaming.AdministrationService.EntityFrameworkCore/GameStreaming.AdministrationService.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.MongoDB": {
+      "path": "src/GameStreaming.AdministrationService.MongoDB/GameStreaming.AdministrationService.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.HttpApi": {
+      "path": "src/GameStreaming.AdministrationService.HttpApi/GameStreaming.AdministrationService.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.HttpApi.Client": {
+      "path": "src/GameStreaming.AdministrationService.HttpApi.Client/GameStreaming.AdministrationService.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "GameStreaming.AdministrationService.TestBase": {
+      "path": "test/GameStreaming.AdministrationService.TestBase/GameStreaming.AdministrationService.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.AdministrationService.EntityFrameworkCore.Tests": {
+      "path": "test/GameStreaming.AdministrationService.EntityFrameworkCore.Tests/GameStreaming.AdministrationService.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.AdministrationService.MongoDB.Tests": {
+      "path": "test/GameStreaming.AdministrationService.MongoDB.Tests/GameStreaming.AdministrationService.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.AdministrationService.Domain.Tests": {
+      "path": "test/GameStreaming.AdministrationService.Domain.Tests/GameStreaming.AdministrationService.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.AdministrationService.Application.Tests": {
+      "path": "test/GameStreaming.AdministrationService.Application.Tests/GameStreaming.AdministrationService.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.AdministrationService.HttpApi.Host": {
+      "path": "host/GameStreaming.AdministrationService.HttpApi.Host/GameStreaming.AdministrationService.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "GameStreaming.AdministrationService.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/GameStreaming.AdministrationService.HttpApi.Client.ConsoleTestApp/GameStreaming.AdministrationService.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "GameStreaming.AdministrationService.IdentityServer": {
+      "path": "host/GameStreaming.AdministrationService.IdentityServer/GameStreaming.AdministrationService.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "GameStreaming.AdministrationService.Host.Shared": {
+      "path": "host/GameStreaming.AdministrationService.Host.Shared/GameStreaming.AdministrationService.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

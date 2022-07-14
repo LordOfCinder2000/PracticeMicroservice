@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "GameStreaming.AdministrationService": {
+      "path": "GameStreaming.AdministrationService.abpmdl.json"
+    }
+  }
+}

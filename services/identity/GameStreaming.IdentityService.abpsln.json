@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "GameStreaming.IdentityService": {
+      "path": "GameStreaming.IdentityService.abpmdl.json"
+    }
+  }
+}
